@@ -1,0 +1,40 @@
+body{
+    font-family:YuGothic, "游ゴシック", "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", sans-serif;
+    background-color:#dfcdab;
+}
+
+header{
+    background-color:#9d973b;
+}
+
+nav ul li{
+    display:inline-block;
+    margin-right:1em;
+    text-decoration:none;
+    color:white;
+    font-weight:bold;
+}
+
+.headerwrap{
+    text-shadow:1px 1px 0px #000;
+}
+
+
+.col-lg-8 name-desc{
+    font-size:110%;
+    font-weight:bold;
+}
+
+.contact-massages{
+    color:#5b5834;
+}
+
+
+footer{
+    padding:10px 0;
+    margin:5px 0;
+    font-size:120%;
+    text-align:center;
+    background-color:#5b5834;
+    color:white;
+}
